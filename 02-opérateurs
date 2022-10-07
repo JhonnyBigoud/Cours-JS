@@ -1,0 +1,45 @@
+# Opérateurs
+
+- JavaScript utilise 3 types d'opérateurs:
+    -**Binaire**
+
+    ``` 
+    Opérande1 Opérateur Opérande2
+    ```
+
+    ```
+    3+4
+    x*y
+    ```
+    -**Unaire** Nécéssite un opérande, avant ou après l'opérateur
+
+    ```
+    Opérande Opérateur
+    Opérateur Opérande
+    ```
+
+    x++
+    ++x
+
+    -**Ternaire** Opérateur conditionnel à trois opérandes
+
+    ``` 
+    Opérande1? Opérande2 : Opérande3
+    ```
+
+    ```js
+    x =10
+    y = (x > 42? "oui":"non")
+    ```
+    
+
+## Les opérateurs d'affectation
+
+## Les opérateurs de comparaison
+
+## Les opérateurs arithmétiques
+
+## Les opérateurs binaires
+
+## Les opérateurs de chaînes
+
